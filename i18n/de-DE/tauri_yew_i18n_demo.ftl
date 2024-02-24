@@ -1,0 +1,1 @@
+greeting = Hallo, {$name}! Du wurdest aus Rust gegrüßt.
